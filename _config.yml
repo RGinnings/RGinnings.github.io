@@ -33,22 +33,22 @@ skills:
 #Work experience is required
 roles:
  - title: IT System Analyst
-   start: June 2019
+   start: Jun 2019
    end: Ongoing
    employer: Magna Seating
    description: Overnight IT assembly line support
  - title: Assembly Line Worker
-   start: October 2015
-   end: June 2019
+   start: Oct 2015
+   end: Jun 2019
    employer: Magna Seating
    description: Worked as assembly line worker
  - title: Customs Protection Officer
    start: May 2013
-   end: October 2015
+   end: Oct 2015
    employer: G4S Security
    description: Overnight Armed security officer
  - title: Specialist US Army
-   start: June 2009
+   start: Jun 2009
    end: May 2013
    employer: US Army
    description: One deployment 2009-2010 Combat arms Cannon Crewmember
@@ -56,7 +56,7 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2019
+   date: Feb 2019
    subject: Software Application Programming
    school: Colorado Technical University
 
