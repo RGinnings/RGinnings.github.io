@@ -14,8 +14,6 @@ primarylinks:
    url: https://stackoverflow.com/users/10207496/raymond-ginnings
  - title: LinkedIn
    url: www.linkedin.com/in/raymond-ginnings
- - title: My Info
-   Phone: (816) 698-9099
 
 #Any buzzword skills you want to include
 skills:
@@ -35,30 +33,30 @@ skills:
 #Work experience is required
 roles:
  - title: IT System Analyst
-   start: Jun 2019
+   start: 2019
    end: Ongoing
    employer: Magna Seating
    description: Overnight IT assembly line support
  - title: Assembly Line Worker
-   start: Oct 2015
-   end: Jun 2019
+   start: 2015
+   end: 2019
    employer: Magna Seating
    description: Worked as assembly line worker
  - title: Customs Protection Officer
-   start: May 2013
-   end: Oct 2015
+   start: 2013
+   end: 2015
    employer: G4S Security
    description: Overnight Armed security officer
  - title: Specialist US Army
-   start: Jun 2009
-   end: May 2013
+   start: 2009
+   end: 2013
    employer: US Army
    description: One deployment 2009-2010 Combat arms Cannon Crewmember
    
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: Feb 2019
+ - level: Bachelor of Science
+   date: 2019
    subject: Software Application Programming
    school: Colorado Technical University
 
@@ -69,7 +67,7 @@ github:
  - RGinnings/caesarCipher
 
 intro: |
-  I am currently wotking as the IT System Analyst, overnight at a seating manufacturing plant. I graduated college with my Bachelor's Degree and within 6 months I recieved my offer to become one of the IT at my currently place of employment. I worked my way from assembler while going to college and then to their IT Department. I don't have a lot of experience by I do have a lot of determination and willingness to learn. I like to create new things, mostly those that help others complete tasks faster and in a simpler fasion. 
+  I live in Excelsior Springs, Missouri and I am currently working as the IT System Analyst, overnight at a seating manufacturing plant. I graduated college with my Bachelor's Degree and within 6 months I recieved my offer to become one of the IT at my currently place of employment. I worked my way from assembler while going to college and then to their IT Department. I don't have a lot of experience by I do have a lot of determination and willingness to learn. I like to create new things, mostly those that help others complete tasks faster and in a simpler fasion. 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Java</strong>: I have created a couple of things, currently posted to my GitHub, for friends/family to help out in daily workouts or just fun things to message each other with.  <br/>
